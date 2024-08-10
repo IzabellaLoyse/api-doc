@@ -1,0 +1,7 @@
+openapi: 3.1.0
+info:
+  title: API Doc
+  version: 1.0.0
+  description: Documentation
+  contact:
+    name: Izabella Loyse
